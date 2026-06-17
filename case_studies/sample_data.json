@@ -1,0 +1,101 @@
+{
+  "report_title": "Internal Audit Report",
+  "organization": "Harbor & Finch Advisory",
+  "audit_period": "Internal review cycle - Q2 2026",
+  "prepared_for": "Audit Committee",
+  "prepared_by": "SecondLifeEngine Audit Automation Demo",
+  "overall_status": "Action required",
+  "maturity_level": "Developing",
+  "executive_interpretation": "The review identified a workable control environment with several documentation and approval gaps. High-risk items are concentrated in Finance and Operations, where evidence trails should be strengthened before the next review cycle.",
+  "findings": [
+    {
+      "finding": "Missing approval records",
+      "risk": "High",
+      "area": "Finance",
+      "evidence": "Invoice review",
+      "recommendation": "Implement approval workflow",
+      "status": "Open"
+    },
+    {
+      "finding": "Incomplete vendor due diligence",
+      "risk": "High",
+      "area": "Procurement",
+      "evidence": "Vendor onboarding sample",
+      "recommendation": "Require due diligence checklist before activation",
+      "status": "Open"
+    },
+    {
+      "finding": "Access reviews not performed quarterly",
+      "risk": "Medium",
+      "area": "IT",
+      "evidence": "System export",
+      "recommendation": "Schedule quarterly access certification",
+      "status": "In progress"
+    },
+    {
+      "finding": "Policy version control inconsistent",
+      "risk": "Medium",
+      "area": "Compliance",
+      "evidence": "Policy document",
+      "recommendation": "Centralize policy ownership and version history",
+      "status": "Open"
+    },
+    {
+      "finding": "Training attendance evidence incomplete",
+      "risk": "Low",
+      "area": "Human Resources",
+      "evidence": "Training register",
+      "recommendation": "Attach attendance exports to training records",
+      "status": "Closed"
+    },
+    {
+      "finding": "Manual quality checks lack sign-off",
+      "risk": "Low",
+      "area": "Operations",
+      "evidence": "Quality control sample",
+      "recommendation": "Add reviewer sign-off to quality checklist",
+      "status": "In progress"
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "1",
+      "action": "Close approval evidence gaps for Finance transactions",
+      "owner": "Finance Controller"
+    },
+    {
+      "priority": "2",
+      "action": "Formalize vendor onboarding control checklist",
+      "owner": "Procurement Lead"
+    },
+    {
+      "priority": "3",
+      "action": "Launch quarterly access review cadence",
+      "owner": "IT Governance Manager"
+    },
+    {
+      "priority": "4",
+      "action": "Create centralized policy register",
+      "owner": "Compliance Officer"
+    },
+    {
+      "priority": "5",
+      "action": "Standardize quality-check sign-off evidence",
+      "owner": "Operations Manager"
+    }
+  ],
+  "evidence": [
+    "Policy document",
+    "Invoice sample",
+    "Approval record",
+    "System export",
+    "Vendor onboarding sample",
+    "Training register",
+    "Quality control sample"
+  ],
+  "next_steps": [
+    "Validate remediation owners and target dates.",
+    "Retest high-risk findings after workflow updates.",
+    "Maintain evidence packages for the next audit committee review."
+  ]
+}
