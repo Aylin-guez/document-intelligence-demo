@@ -1,0 +1,118 @@
+{
+    "report_title": "Investigation Dossier",
+    "organization": "Northwind Advisory Group",
+    "case_id": "INV-2026-001",
+    "review_period": "Q2 2026",
+    "prepared_for": "Compliance Committee",
+    "prepared_by": "Document Automation Demo",
+    "case_status": "Review completed",
+    "overall_assessment": "Process deviations identified",
+    "executive_summary": "The review identified several process deviations related to approvals, vendor communications, and documentation completeness. The available evidence supports a need for stronger review controls and clearer ownership of remediation actions.",
+    "people": [
+      {
+        "name": "John Smith",
+        "role": "Operations Manager",
+        "department": "Operations",
+        "status": "Interviewed"
+      },
+      {
+        "name": "Mary Jones",
+        "role": "Finance Analyst",
+        "department": "Finance",
+        "status": "Reviewed"
+      },
+      {
+        "name": "Carlos Rivera",
+        "role": "Vendor Coordinator",
+        "department": "Procurement",
+        "status": "Pending follow-up"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "Apr 03",
+        "event": "Initial concern reported"
+      },
+      {
+        "date": "Apr 08",
+        "event": "Document collection started"
+      },
+      {
+        "date": "Apr 15",
+        "event": "Key communications reviewed"
+      },
+      {
+        "date": "Apr 22",
+        "event": "Stakeholder interviews completed"
+      },
+      {
+        "date": "May 02",
+        "event": "Findings summarized for review"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "EV-01",
+        "type": "Email",
+        "description": "Vendor communication thread",
+        "status": "Reviewed"
+      },
+      {
+        "id": "EV-02",
+        "type": "Spreadsheet",
+        "description": "Payment approval tracker",
+        "status": "Reviewed"
+      },
+      {
+        "id": "EV-03",
+        "type": "Policy",
+        "description": "Procurement approval policy",
+        "status": "Reviewed"
+      },
+      {
+        "id": "EV-04",
+        "type": "Interview Note",
+        "description": "Operations stakeholder interview",
+        "status": "Completed"
+      }
+    ],
+    "findings": [
+      {
+        "title": "Approval documentation was incomplete",
+        "impact": "High",
+        "description": "Several reviewed transactions lacked clear evidence of approval before processing."
+      },
+      {
+        "title": "Vendor communication was not centralized",
+        "impact": "Medium",
+        "description": "Relevant communication was split across multiple channels, increasing review complexity."
+      },
+      {
+        "title": "Ownership of follow-up actions was unclear",
+        "impact": "Medium",
+        "description": "Remediation responsibilities were not consistently assigned after issues were identified."
+      }
+    ],
+    "recommendations": [
+      {
+        "priority": "1",
+        "action": "Centralize approval evidence for reviewed transactions",
+        "owner": "Finance Lead"
+      },
+      {
+        "priority": "2",
+        "action": "Create a standard case file structure for future reviews",
+        "owner": "Compliance Officer"
+      },
+      {
+        "priority": "3",
+        "action": "Assign remediation owners and target dates",
+        "owner": "Operations Manager"
+      }
+    ],
+    "next_steps": [
+      "Validate remediation ownership with department leads.",
+      "Standardize evidence collection folders for future reviews.",
+      "Schedule follow-up review after corrective actions are completed."
+    ]
+  }
