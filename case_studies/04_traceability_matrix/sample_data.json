@@ -1,0 +1,120 @@
+{
+    "report_title": "Traceability Matrix Report",
+    "organization": "Clearline Compliance Group",
+    "matrix_id": "TM-2026-004",
+    "review_period": "Q2 2026",
+    "prepared_for": "Compliance Review Team",
+    "prepared_by": "Document Automation Demo",
+    "overall_status": "Exceptions identified",
+    "coverage_rate": "82%",
+    "executive_summary": "The review matched operational records against supporting source references to evaluate completeness, consistency, and documentation coverage. Most items were traceable, but several exceptions require follow-up due to missing or incomplete supporting references.",
+    "sources": [
+      {
+        "source_id": "SRC-01",
+        "source_name": "Operations Register",
+        "type": "Spreadsheet",
+        "records": "48",
+        "status": "Reviewed"
+      },
+      {
+        "source_id": "SRC-02",
+        "source_name": "Approval Folder",
+        "type": "PDF Package",
+        "records": "36",
+        "status": "Reviewed"
+      },
+      {
+        "source_id": "SRC-03",
+        "source_name": "Vendor Evidence Log",
+        "type": "CSV Export",
+        "records": "22",
+        "status": "Reviewed"
+      }
+    ],
+    "matrix": [
+      {
+        "record_id": "REC-001",
+        "source": "Operations Register",
+        "reference": "APP-001",
+        "status": "Matched",
+        "observation": "Approval record located"
+      },
+      {
+        "record_id": "REC-002",
+        "source": "Operations Register",
+        "reference": "APP-002",
+        "status": "Matched",
+        "observation": "Evidence complete"
+      },
+      {
+        "record_id": "REC-003",
+        "source": "Operations Register",
+        "reference": "APP-003",
+        "status": "Missing",
+        "observation": "No approval file found"
+      },
+      {
+        "record_id": "REC-004",
+        "source": "Vendor Evidence Log",
+        "reference": "VEN-018",
+        "status": "Partial",
+        "observation": "Supporting document incomplete"
+      },
+      {
+        "record_id": "REC-005",
+        "source": "Approval Folder",
+        "reference": "APP-009",
+        "status": "Matched",
+        "observation": "Reference consistent"
+      },
+      {
+        "record_id": "REC-006",
+        "source": "Vendor Evidence Log",
+        "reference": "VEN-021",
+        "status": "Missing",
+        "observation": "Referenced item absent from package"
+      }
+    ],
+    "exceptions": [
+      {
+        "item": "REC-003",
+        "severity": "High",
+        "issue": "Missing approval file",
+        "owner": "Finance Lead"
+      },
+      {
+        "item": "REC-004",
+        "severity": "Medium",
+        "issue": "Incomplete vendor document",
+        "owner": "Procurement Lead"
+      },
+      {
+        "item": "REC-006",
+        "severity": "High",
+        "issue": "Evidence referenced but not provided",
+        "owner": "Compliance Officer"
+      }
+    ],
+    "recommendations": [
+      {
+        "priority": "1",
+        "action": "Collect missing approval files for high-severity exceptions",
+        "owner": "Finance Lead"
+      },
+      {
+        "priority": "2",
+        "action": "Standardize evidence naming across source folders",
+        "owner": "Compliance Officer"
+      },
+      {
+        "priority": "3",
+        "action": "Add monthly reconciliation between registers and evidence packages",
+        "owner": "Operations Manager"
+      }
+    ],
+    "appendix_notes": [
+      "All records are fictitious and shown only as a document automation case study.",
+      "The matrix structure can be adapted for Excel, CSV, PDF indexes, or database exports.",
+      "The purpose is to show repeatable traceability reporting without manual formatting."
+    ]
+  }

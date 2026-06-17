@@ -1,59 +1,14 @@
 # Document Intelligence Portfolio
 
-A collection of document automation case studies demonstrating how structured information can be transformed into professional PDF outputs.
+A collection of document automation case studies.
 
 ## Case Studies
 
-### Business Report Automation
-
-Input:
-
-* Structured business data
-
-Output:
-
-* Executive Summary
-* Findings Table
-* Timeline
-* Conclusions
-* Appendix
-
----
-
-### Audit Report Automation
-
-Input:
-
-* Audit findings
-* Risk assessments
-* Evidence records
-
-Output:
-
-* Executive Summary
-* Findings Register
-* Risk Overview
-* Recommendations
-* Evidence Appendix
-* Audit Conclusion
-
----
-
-More case studies coming soon:
-
-* Investigation Dossier Automation
-* Traceability Matrix Automation
-* Technical Documentation Automation
-* Proposal Automation
-
-## Technologies
-
-* Python
-* PDF Automation
-* Structured Data Processing
+- [01 - Business Report](case_studies/01_business_report)
+- [02 - Audit Report](case_studies/02_audit_report)
+- [03 - Investigation Dossier](case_studies/03_investigation_dossier)
+- [04 - Traceability Matrix](case_studies/04_traceability_matrix)
 
 ## Note
 
-This repository focuses on demonstrating outputs and workflow concepts.
-
-The underlying document generation framework is not included.
+This repository shows portfolio outputs only. The internal document generation engine is not included.
