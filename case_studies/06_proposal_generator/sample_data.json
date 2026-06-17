@@ -1,0 +1,98 @@
+{
+    "report_title": "Commercial Proposal",
+    "proposal_id": "PROP-2026-006",
+    "client_name": "BrightPath Operations",
+    "prepared_for": "Operations Director",
+    "prepared_by": "Document Automation Demo",
+    "proposal_date": "June 2026",
+    "proposal_status": "Ready for review",
+    "project_title": "Automated Reporting Workflow",
+    "summary": "This proposal outlines a structured reporting automation service designed to transform recurring operational data into professional PDF reports. The goal is to reduce manual formatting, improve consistency, and deliver stakeholder-ready documents faster.",
+    "objectives": [
+      "Reduce manual reporting time.",
+      "Standardize report formatting across recurring deliverables.",
+      "Create a repeatable PDF generation workflow.",
+      "Improve clarity for internal leadership and client updates."
+    ],
+    "scope": [
+      {
+        "area": "Data Intake",
+        "description": "Review the available spreadsheet or structured data sources and define the report sections."
+      },
+      {
+        "area": "Report Design",
+        "description": "Create a professional PDF layout with summary, tables, timeline, and conclusions."
+      },
+      {
+        "area": "Automation Workflow",
+        "description": "Build a repeatable process that generates the report from updated input data."
+      }
+    ],
+    "deliverables": [
+      {
+        "item": "PDF report template",
+        "description": "Professional multi-page PDF structure adapted to the client report."
+      },
+      {
+        "item": "Data-to-report workflow",
+        "description": "Reusable process for transforming structured data into the PDF output."
+      },
+      {
+        "item": "Documentation notes",
+        "description": "Brief instructions describing how to prepare future input data."
+      }
+    ],
+    "timeline": [
+      {
+        "phase": "1",
+        "title": "Discovery",
+        "duration": "1 day",
+        "description": "Review input files, report goals, and required sections."
+      },
+      {
+        "phase": "2",
+        "title": "Prototype",
+        "duration": "2 days",
+        "description": "Create the first version of the PDF report layout."
+      },
+      {
+        "phase": "3",
+        "title": "Revision",
+        "duration": "1 day",
+        "description": "Apply feedback and adjust formatting or sections."
+      },
+      {
+        "phase": "4",
+        "title": "Delivery",
+        "duration": "1 day",
+        "description": "Deliver the final PDF output and usage notes."
+      }
+    ],
+    "pricing": [
+      {
+        "package": "Starter",
+        "price": "$40",
+        "includes": "Basic PDF report from one spreadsheet or CSV."
+      },
+      {
+        "package": "Standard",
+        "price": "$120",
+        "includes": "Multi-page report with tables, summaries, and basic branding."
+      },
+      {
+        "package": "Advanced",
+        "price": "$300",
+        "includes": "Custom reporting workflow with multiple sections and reusable structure."
+      }
+    ],
+    "terms": [
+      "All sample information is fictitious and shown only as a proposal automation case study.",
+      "Final scope depends on the structure and quality of the provided input data.",
+      "Additional integrations, complex transformations, or custom branding can be quoted separately."
+    ],
+    "next_steps": [
+      "Confirm the report objective and expected audience.",
+      "Provide the source spreadsheet or structured data file.",
+      "Approve the proposed report structure before final generation."
+    ]
+  }

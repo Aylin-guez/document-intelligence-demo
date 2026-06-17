@@ -1,0 +1,87 @@
+{
+    "report_title": "Property Dossier",
+    "property_id": "PROP-2026-007",
+    "property_name": "Vista Norte Residence",
+    "property_type": "Apartment",
+    "location": "Santiago, Chile",
+    "prepared_for": "Prospective Buyer",
+    "prepared_by": "Document Automation Demo",
+    "listing_status": "Available",
+    "price": "$185,000",
+    "area": "82 m²",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "parking": "1",
+    "summary": "Vista Norte Residence is a fictitious apartment listing designed to demonstrate how structured property information can be transformed into a polished real estate dossier. The property combines practical layout, urban location, and amenities suitable for residential buyers or rental investors.",
+    "features": [
+      {
+        "feature": "Open living area",
+        "description": "Bright living and dining space with flexible furniture layout."
+      },
+      {
+        "feature": "Primary bedroom",
+        "description": "Comfortable main bedroom with storage space and natural light."
+      },
+      {
+        "feature": "Kitchen",
+        "description": "Functional kitchen area suitable for everyday cooking and hosting."
+      },
+      {
+        "feature": "Balcony",
+        "description": "Outdoor balcony with city-facing view."
+      }
+    ],
+    "location_notes": [
+      "Close to public transportation.",
+      "Nearby supermarkets, cafes, and daily services.",
+      "Residential area with access to main roads.",
+      "Suitable for professionals, small families, or rental investment."
+    ],
+    "amenities": [
+      {
+        "name": "Elevator",
+        "status": "Included"
+      },
+      {
+        "name": "Parking",
+        "status": "Included"
+      },
+      {
+        "name": "Storage unit",
+        "status": "Available"
+      },
+      {
+        "name": "Security access",
+        "status": "Included"
+      },
+      {
+        "name": "Shared terrace",
+        "status": "Available"
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Listing price",
+        "value": "$185,000"
+      },
+      {
+        "label": "Estimated monthly fees",
+        "value": "$120"
+      },
+      {
+        "label": "Estimated rental range",
+        "value": "$850 - $950"
+      }
+    ],
+    "next_steps": [
+      "Schedule a property visit.",
+      "Request updated documentation and ownership records.",
+      "Review financing or investment assumptions.",
+      "Prepare a purchase or rental offer if interested."
+    ],
+    "contact": {
+      "name": "Real Estate Advisory Demo",
+      "email": "contact@example.com",
+      "phone": "+56 9 0000 0000"
+    }
+  }

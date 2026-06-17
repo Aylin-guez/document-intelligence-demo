@@ -1,0 +1,119 @@
+{
+    "report_title": "Product Catalog",
+    "catalog_id": "CAT-2026-009",
+    "company_name": "Northline Supply Co.",
+    "catalog_period": "Summer 2026",
+    "prepared_for": "Retail Buyers",
+    "prepared_by": "Document Automation Demo",
+    "catalog_status": "Ready for distribution",
+    "currency": "USD",
+    "overview": "This fictitious catalog demonstrates how structured product information can be transformed into a professional sales document. Product names, categories, descriptions, prices, availability, and ordering notes are organized into a clean catalog layout.",
+    "categories": [
+      {
+        "category": "Desk Accessories",
+        "description": "Functional items designed for daily office organization."
+      },
+      {
+        "category": "Storage",
+        "description": "Compact storage products for workspaces and small offices."
+      },
+      {
+        "category": "Planning Tools",
+        "description": "Products that support scheduling, note-taking, and project planning."
+      }
+    ],
+    "featured_products": [
+      {
+        "sku": "DSK-101",
+        "name": "Modular Desk Tray",
+        "category": "Desk Accessories",
+        "price": "$24.00",
+        "availability": "In stock"
+      },
+      {
+        "sku": "STR-204",
+        "name": "Compact File Box",
+        "category": "Storage",
+        "price": "$38.00",
+        "availability": "In stock"
+      },
+      {
+        "sku": "PLN-330",
+        "name": "Weekly Planning Pad",
+        "category": "Planning Tools",
+        "price": "$14.00",
+        "availability": "Low stock"
+      }
+    ],
+    "products": [
+      {
+        "sku": "DSK-101",
+        "name": "Modular Desk Tray",
+        "category": "Desk Accessories",
+        "description": "Stackable tray for documents, notes, and daily workspace items.",
+        "price": "$24.00",
+        "availability": "In stock"
+      },
+      {
+        "sku": "DSK-118",
+        "name": "Cable Organizer Set",
+        "category": "Desk Accessories",
+        "description": "Simple cable clips and ties for clean desk setups.",
+        "price": "$12.00",
+        "availability": "In stock"
+      },
+      {
+        "sku": "STR-204",
+        "name": "Compact File Box",
+        "category": "Storage",
+        "description": "Portable file box for folders, receipts, and small records.",
+        "price": "$38.00",
+        "availability": "In stock"
+      },
+      {
+        "sku": "STR-220",
+        "name": "Label Storage Bins",
+        "category": "Storage",
+        "description": "Set of labeled bins for organizing supplies and materials.",
+        "price": "$42.00",
+        "availability": "Backorder"
+      },
+      {
+        "sku": "PLN-330",
+        "name": "Weekly Planning Pad",
+        "category": "Planning Tools",
+        "description": "Tear-off weekly planner for tasks, priorities, and reminders.",
+        "price": "$14.00",
+        "availability": "Low stock"
+      },
+      {
+        "sku": "PLN-348",
+        "name": "Project Notes Kit",
+        "category": "Planning Tools",
+        "description": "Notebook and sticky note bundle for project tracking.",
+        "price": "$29.00",
+        "availability": "In stock"
+      }
+    ],
+    "pricing_notes": [
+      "Prices are fictitious and shown only for catalog automation demonstration.",
+      "Bulk pricing can be added as an additional structured field.",
+      "Availability status can be updated from a spreadsheet, CSV, or inventory export."
+    ],
+    "order_steps": [
+      "Review product list and confirm selected SKUs.",
+      "Send purchase quantity and delivery requirements.",
+      "Confirm pricing, availability, and payment terms.",
+      "Receive final order confirmation and delivery estimate."
+    ],
+    "contact": {
+      "name": "Sales Operations Demo",
+      "email": "sales@example.com",
+      "phone": "+1 555 000 0000"
+    },
+    "appendix_notes": [
+      "All catalog content is fictitious and used only as a product catalog automation case study.",
+      "The same structure can be adapted for wholesale catalogs, ecommerce product sheets, price lists, or distributor brochures.",
+      "The goal is to demonstrate repeatable catalog generation without manual formatting."
+    ]
+  }

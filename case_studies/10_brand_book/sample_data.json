@@ -1,0 +1,119 @@
+{
+    "report_title": "Brand Book",
+    "brand_id": "BRAND-2026-010",
+    "brand_name": "Luma Nest Studio",
+    "industry": "Creative Services",
+    "prepared_for": "Marketing Team",
+    "prepared_by": "Document Automation Demo",
+    "version": "v1.0",
+    "brand_status": "Ready for use",
+    "overview": "Luma Nest Studio is a fictitious creative services brand designed to demonstrate how structured identity information can be transformed into a professional brand book. The brand is warm, clear, modern, and friendly, with a visual system built for digital and client-facing materials.",
+    "values": [
+      {
+        "value": "Clarity",
+        "description": "Communication should feel simple, useful, and easy to understand."
+      },
+      {
+        "value": "Warmth",
+        "description": "The brand should feel approachable, human, and supportive."
+      },
+      {
+        "value": "Craft",
+        "description": "Visual materials should feel thoughtful, polished, and intentional."
+      },
+      {
+        "value": "Consistency",
+        "description": "Every asset should reinforce the same visual and verbal identity."
+      }
+    ],
+    "colors": [
+      {
+        "name": "Nest Navy",
+        "hex": "#1F3347",
+        "usage": "Primary text, headers, and formal sections."
+      },
+      {
+        "name": "Luma Coral",
+        "hex": "#D97A61",
+        "usage": "Accent elements, highlights, and calls to action."
+      },
+      {
+        "name": "Soft Cream",
+        "hex": "#F6EFE6",
+        "usage": "Backgrounds, panels, and soft layout areas."
+      },
+      {
+        "name": "Sage Mist",
+        "hex": "#8DAA9D",
+        "usage": "Secondary accents, calm sections, and supportive graphics."
+      }
+    ],
+    "typography": [
+      {
+        "style": "Heading",
+        "font": "Montserrat Bold",
+        "usage": "Main titles, section headers, and key brand statements."
+      },
+      {
+        "style": "Body",
+        "font": "Inter Regular",
+        "usage": "Paragraph text, descriptions, and internal documentation."
+      },
+      {
+        "style": "Accent",
+        "font": "Playfair Display",
+        "usage": "Occasional editorial highlights and campaign phrases."
+      }
+    ],
+    "voice_tone": [
+      {
+        "principle": "Clear",
+        "description": "Use direct language and avoid unnecessary complexity."
+      },
+      {
+        "principle": "Helpful",
+        "description": "Focus on guiding the reader rather than sounding overly promotional."
+      },
+      {
+        "principle": "Warm",
+        "description": "Use friendly wording without losing professionalism."
+      }
+    ],
+    "usage_guidelines": [
+      {
+        "rule": "Use consistent spacing",
+        "description": "Keep generous margins and avoid overcrowded layouts."
+      },
+      {
+        "rule": "Protect logo visibility",
+        "description": "Do not place the logo over visually noisy backgrounds."
+      },
+      {
+        "rule": "Limit accent colors",
+        "description": "Use accent colors intentionally and avoid mixing all palette colors at once."
+      },
+      {
+        "rule": "Keep messages concise",
+        "description": "Prefer short headings and clear supporting copy."
+      }
+    ],
+    "do_dont": [
+      {
+        "do": "Use soft backgrounds with strong readable text.",
+        "dont": "Use low contrast combinations."
+      },
+      {
+        "do": "Use brand colors consistently across layouts.",
+        "dont": "Create new colors for each document."
+      },
+      {
+        "do": "Keep icons and visuals simple.",
+        "dont": "Overload pages with too many decorative elements."
+      }
+    ],
+    "appendix_notes": [
+      "All brand content is fictitious and shown only as a brand book automation case study.",
+      "The same structure can be adapted for style guides, visual identity handoffs, agency documentation, or startup brand kits.",
+      "The goal is to demonstrate repeatable brand documentation without manual formatting."
+    ]
+  }

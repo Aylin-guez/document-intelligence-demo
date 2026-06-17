@@ -1,0 +1,90 @@
+{
+    "report_title": "Corporate Operations Manual",
+    "manual_id": "MAN-2026-008",
+    "organization": "Summit Lane Services",
+    "department": "Operations",
+    "prepared_for": "New Team Members",
+    "prepared_by": "Document Automation Demo",
+    "version": "v1.0",
+    "manual_status": "Approved for internal use",
+    "overview": "This manual provides a fictitious example of how internal procedures, responsibilities, policies, and onboarding steps can be organized into a professional corporate document. It is designed to demonstrate repeatable manual generation from structured content.",
+    "roles": [
+      {
+        "role": "Operations Manager",
+        "responsibility": "Oversees daily execution, assigns owners, and reviews operational performance."
+      },
+      {
+        "role": "Team Lead",
+        "responsibility": "Coordinates task completion, supports team members, and escalates blockers."
+      },
+      {
+        "role": "Quality Reviewer",
+        "responsibility": "Checks completed work against standards and documents exceptions."
+      },
+      {
+        "role": "New Team Member",
+        "responsibility": "Completes onboarding steps, follows procedures, and asks for clarification when needed."
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Daily intake review",
+        "owner": "Team Lead",
+        "frequency": "Daily",
+        "description": "Review new requests, confirm required information, and assign ownership."
+      },
+      {
+        "name": "Quality check",
+        "owner": "Quality Reviewer",
+        "frequency": "Weekly",
+        "description": "Sample completed items and document whether standards were met."
+      },
+      {
+        "name": "Escalation handling",
+        "owner": "Operations Manager",
+        "frequency": "As needed",
+        "description": "Review high-priority issues and determine next actions."
+      }
+    ],
+    "policies": [
+      {
+        "policy": "Data handling",
+        "summary": "Business records must be stored only in approved systems and shared with authorized staff."
+      },
+      {
+        "policy": "Approval workflow",
+        "summary": "Important operational changes require documented approval before implementation."
+      },
+      {
+        "policy": "Quality documentation",
+        "summary": "Quality checks must include reviewer name, date, and observations."
+      }
+    ],
+    "onboarding_steps": [
+      "Review this operations manual.",
+      "Complete system access setup.",
+      "Attend workflow training.",
+      "Shadow a team member during the first operational review.",
+      "Complete a supervised task.",
+      "Confirm understanding with the team lead."
+    ],
+    "compliance_notes": [
+      {
+        "topic": "Documentation discipline",
+        "note": "All operational decisions should have enough context to be reviewed later."
+      },
+      {
+        "topic": "Access control",
+        "note": "System access should be reviewed periodically and removed when no longer needed."
+      },
+      {
+        "topic": "Procedure updates",
+        "note": "Manual changes should be versioned and communicated to affected teams."
+      }
+    ],
+    "appendix_notes": [
+      "All content is fictitious and shown only as a corporate manual automation case study.",
+      "The same structure can be adapted for onboarding guides, policy manuals, safety manuals, or operational procedures.",
+      "The goal is to demonstrate repeatable manual generation without manual formatting."
+    ]
+  }
