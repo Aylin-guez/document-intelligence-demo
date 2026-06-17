@@ -1,44 +1,50 @@
-# Document Intelligence Demo
+# Document Intelligence Portfolio
 
-A portfolio project demonstrating how structured data can be transformed into professional multi-page PDF reports.
+A collection of document automation case studies demonstrating how structured information can be transformed into professional PDF outputs.
 
-## Problem
+## Case Studies
 
-Many teams spend hours manually formatting recurring reports.
+### Business Report Automation
 
-Data is already available in spreadsheets, databases, or operational systems, but significant time is still spent:
+Input:
 
-* formatting documents
-* creating executive summaries
-* updating tables
-* maintaining layouts
-* exporting PDFs
+* Structured business data
 
-## Solution
+Output:
 
-This demo shows how structured input can be automatically transformed into a stakeholder-ready report.
-
-Generated sections include:
-
-* Cover Page
 * Executive Summary
 * Findings Table
 * Timeline
 * Conclusions
 * Appendix
 
-## Example Output
+---
 
-See the screenshots folder and sample PDF.
+### Audit Report Automation
 
-## Potential Use Cases
+Input:
 
-* Business reporting
-* Operational reporting
-* Audit summaries
-* Compliance reporting
-* Internal documentation
-* Client updates
+* Audit findings
+* Risk assessments
+* Evidence records
+
+Output:
+
+* Executive Summary
+* Findings Register
+* Risk Overview
+* Recommendations
+* Evidence Appendix
+* Audit Conclusion
+
+---
+
+More case studies coming soon:
+
+* Investigation Dossier Automation
+* Traceability Matrix Automation
+* Technical Documentation Automation
+* Proposal Automation
 
 ## Technologies
 
