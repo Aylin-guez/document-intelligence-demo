@@ -1,0 +1,97 @@
+{
+    "report_title": "Grant Funding Proposal",
+    "proposal_id": "GRANT-2026-013",
+    "organization": "Community Bridge Foundation",
+    "project_title": "Digital Skills for Local Communities",
+    "prepared_for": "Regional Development Fund",
+    "prepared_by": "Document Automation Demo",
+    "proposal_status": "Ready for review",
+    "funding_requested": "$18,500",
+    "project_duration": "6 months",
+    "target_beneficiaries": "120 participants",
+    "summary": "This fictitious funding proposal demonstrates how structured project information can be transformed into a professional grant document. The proposed initiative aims to provide basic digital skills training, access to practical learning materials, and support for community members who need stronger technology confidence.",
+    "organization_profile": "Community Bridge Foundation is a fictitious nonprofit organization focused on local education, inclusion, and practical skill development. The organization coordinates workshops, volunteer programs, and community-based learning initiatives.",
+    "problem_statement": "Many community members have limited access to structured digital skills training. This affects their ability to complete online procedures, access employment opportunities, communicate with services, and participate confidently in digital environments.",
+    "objectives": [
+      "Deliver accessible digital skills workshops for community participants.",
+      "Create practical learning materials that can be reused after the project.",
+      "Support participants in completing common online tasks independently.",
+      "Build local capacity through volunteer facilitators."
+    ],
+    "activities": [
+      {
+        "activity": "Curriculum design",
+        "owner": "Education Coordinator",
+        "timeline": "Month 1",
+        "description": "Prepare workshop materials, session plans, and practical exercises."
+      },
+      {
+        "activity": "Participant enrollment",
+        "owner": "Community Outreach Lead",
+        "timeline": "Month 1",
+        "description": "Register participants and organize learning groups."
+      },
+      {
+        "activity": "Workshop delivery",
+        "owner": "Training Team",
+        "timeline": "Months 2-5",
+        "description": "Run weekly training sessions and guided practice activities."
+      },
+      {
+        "activity": "Impact evaluation",
+        "owner": "Project Coordinator",
+        "timeline": "Month 6",
+        "description": "Measure participation, completion, satisfaction, and skill improvement."
+      }
+    ],
+    "budget": [
+      {
+        "category": "Training materials",
+        "amount": "$4,200",
+        "description": "Printed guides, practice worksheets, and participant materials."
+      },
+      {
+        "category": "Facilitator fees",
+        "amount": "$8,000",
+        "description": "Workshop facilitation and preparation time."
+      },
+      {
+        "category": "Equipment support",
+        "amount": "$3,500",
+        "description": "Temporary devices and technical support for training sessions."
+      },
+      {
+        "category": "Evaluation and reporting",
+        "amount": "$2,800",
+        "description": "Impact measurement, reporting, and final documentation."
+      }
+    ],
+    "impact_metrics": [
+      {
+        "metric": "Participants reached",
+        "target": "120"
+      },
+      {
+        "metric": "Workshop completion rate",
+        "target": "80%"
+      },
+      {
+        "metric": "Participant satisfaction",
+        "target": "90%"
+      },
+      {
+        "metric": "Reusable learning resources",
+        "target": "12 guides"
+      }
+    ],
+    "sustainability_notes": [
+      "Training materials will remain available for future workshops.",
+      "Volunteer facilitators will receive guidance to continue basic support activities.",
+      "The organization will use participant feedback to improve future community programs."
+    ],
+    "appendix_notes": [
+      "All proposal content is fictitious and used only as a funding proposal automation case study.",
+      "The same structure can support grants, NGO proposals, municipal initiatives, cultural projects, and school funding applications.",
+      "The goal is to demonstrate repeatable proposal generation without manual formatting."
+    ]
+  }

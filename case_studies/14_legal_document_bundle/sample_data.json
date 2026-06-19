@@ -1,0 +1,124 @@
+{
+    "report_title": "Legal Document Bundle",
+    "bundle_id": "LEGAL-2026-014",
+    "matter_name": "Vendor Services Agreement Review",
+    "organization": "Harbor Point Advisory",
+    "prepared_for": "Legal Operations Team",
+    "prepared_by": "Document Automation Demo",
+    "review_status": "Ready for counsel review",
+    "review_period": "June 2026",
+    "disclaimer": "This demo is for document automation purposes only and does not provide legal advice.",
+    "summary": "This fictitious legal document bundle demonstrates how structured contract review information can be transformed into a professional document package. The bundle organizes parties, document references, clauses, obligations, review notes, and appendices into a consistent PDF format.",
+    "parties": [
+      {
+        "party": "Harbor Point Advisory",
+        "role": "Client",
+        "status": "Primary party"
+      },
+      {
+        "party": "Northline Support Services",
+        "role": "Vendor",
+        "status": "Counterparty"
+      },
+      {
+        "party": "Bright Ledger Finance",
+        "role": "Payment Processor",
+        "status": "Referenced third party"
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": "DOC-01",
+        "title": "Master Services Agreement",
+        "type": "Contract",
+        "status": "Reviewed"
+      },
+      {
+        "doc_id": "DOC-02",
+        "title": "Statement of Work",
+        "type": "Scope Document",
+        "status": "Reviewed"
+      },
+      {
+        "doc_id": "DOC-03",
+        "title": "Data Processing Addendum",
+        "type": "Addendum",
+        "status": "Pending review"
+      },
+      {
+        "doc_id": "DOC-04",
+        "title": "Service Level Exhibit",
+        "type": "Annex",
+        "status": "Reviewed"
+      }
+    ],
+    "clauses": [
+      {
+        "clause": "Confidentiality",
+        "reference": "Section 4",
+        "summary": "Both parties must protect confidential information and limit disclosure to authorized personnel."
+      },
+      {
+        "clause": "Payment Terms",
+        "reference": "Section 6",
+        "summary": "Invoices are payable within the agreed payment period after receipt and approval."
+      },
+      {
+        "clause": "Termination",
+        "reference": "Section 9",
+        "summary": "Either party may terminate under defined notice and breach conditions."
+      },
+      {
+        "clause": "Data Handling",
+        "reference": "Addendum A",
+        "summary": "Personal or sensitive data must be processed only according to documented instructions."
+      }
+    ],
+    "obligations": [
+      {
+        "owner": "Client",
+        "obligation": "Provide required access and project information.",
+        "status": "Open"
+      },
+      {
+        "owner": "Vendor",
+        "obligation": "Deliver services according to agreed scope and timeline.",
+        "status": "Open"
+      },
+      {
+        "owner": "Vendor",
+        "obligation": "Maintain confidentiality controls.",
+        "status": "Ongoing"
+      },
+      {
+        "owner": "Client",
+        "obligation": "Review invoices and approve valid charges.",
+        "status": "Ongoing"
+      }
+    ],
+    "review_notes": [
+      {
+        "topic": "Pending addendum review",
+        "note": "The data processing addendum should be reviewed by counsel before execution."
+      },
+      {
+        "topic": "Payment workflow",
+        "note": "Approval responsibilities should be confirmed internally before onboarding."
+      },
+      {
+        "topic": "Service levels",
+        "note": "Reporting cadence should be aligned with operational expectations."
+      }
+    ],
+    "next_steps": [
+      "Send data processing addendum to legal counsel.",
+      "Confirm internal owner for invoice approval workflow.",
+      "Validate final service level reporting cadence.",
+      "Prepare signature package after review notes are resolved."
+    ],
+    "appendix_notes": [
+      "All legal content is fictitious and used only as a document automation case study.",
+      "This demo does not provide legal advice.",
+      "The same structure can support contract summaries, legal bundles, annex packages, due diligence reviews, and internal legal operations documentation."
+    ]
+  }

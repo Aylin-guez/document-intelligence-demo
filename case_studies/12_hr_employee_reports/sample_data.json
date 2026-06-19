@@ -1,0 +1,82 @@
+{
+    "report_title": "Employee Performance Report",
+    "report_id": "HR-2026-012",
+  
+    "employee_name": "Emma Carter",
+    "employee_id": "EMP-1008",
+  
+    "department": "Operations",
+    "position": "Process Analyst",
+  
+    "manager": "Michael Foster",
+  
+    "hire_date": "2024-03-18",
+  
+    "review_period": "January 2026 - June 2026",
+  
+    "status": "Active",
+  
+    "profile_summary": "Emma Carter is a process analyst responsible for operational reviews, process optimization initiatives and internal documentation improvements.",
+  
+    "onboarding": {
+      "completion": "100%",
+      "status": "Completed",
+      "mentor": "Sarah Williams"
+    },
+  
+    "trainings": [
+      {
+        "course": "Process Mapping Fundamentals",
+        "date": "2025-08-12",
+        "status": "Completed"
+      },
+      {
+        "course": "Business Analysis Workshop",
+        "date": "2025-11-05",
+        "status": "Completed"
+      },
+      {
+        "course": "Automation Opportunities",
+        "date": "2026-02-17",
+        "status": "Completed"
+      }
+    ],
+  
+    "performance_scores": [
+      {
+        "category": "Productivity",
+        "score": "4.6"
+      },
+      {
+        "category": "Communication",
+        "score": "4.8"
+      },
+      {
+        "category": "Collaboration",
+        "score": "4.7"
+      },
+      {
+        "category": "Quality",
+        "score": "4.9"
+      }
+    ],
+  
+    "attendance": {
+      "attendance_rate": "98.4%",
+      "late_arrivals": "2",
+      "absences": "1"
+    },
+  
+    "development_plan": [
+      "Lead a small process improvement initiative.",
+      "Complete advanced data visualization training.",
+      "Participate in cross-functional projects.",
+      "Mentor a new team member."
+    ],
+  
+    "appendix_notes": [
+      "This report contains fictional employee information used only for demonstration purposes.",
+      "The same structure can support onboarding reports, annual reviews, training reports and HR documentation.",
+      "Data can be imported from spreadsheets, HR systems or attendance exports."
+    ]
+  }

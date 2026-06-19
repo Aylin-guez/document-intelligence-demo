@@ -1,0 +1,64 @@
+{
+    "report_title": "Service Quotation",
+    "quote_id": "QT-2026-011",
+    "company_name": "Northwind Consulting",
+    "client_name": "Summit Retail Group",
+    "prepared_by": "Sales Operations",
+    "issue_date": "2026-06-15",
+    "valid_until": "2026-07-15",
+    "status": "Pending Approval",
+  
+    "executive_summary": "This quotation demonstrates how structured commercial information can automatically generate a professional client-facing document.",
+  
+    "services": [
+      {
+        "service": "Business Process Review",
+        "quantity": 1,
+        "unit_price": 1200,
+        "total": 1200
+      },
+      {
+        "service": "Automation Assessment",
+        "quantity": 1,
+        "unit_price": 900,
+        "total": 900
+      },
+      {
+        "service": "Implementation Support",
+        "quantity": 10,
+        "unit_price": 120,
+        "total": 1200
+      }
+    ],
+  
+    "pricing": {
+      "subtotal": 3300,
+      "tax": 627,
+      "total": 3927,
+      "currency": "USD"
+    },
+  
+    "payment_terms": [
+      "50% upon project approval.",
+      "50% upon delivery.",
+      "Bank transfer accepted.",
+      "Quotation valid for 30 days."
+    ],
+  
+    "approvals": [
+      {
+        "role": "Client Representative",
+        "status": "Pending"
+      },
+      {
+        "role": "Sales Manager",
+        "status": "Approved"
+      }
+    ],
+  
+    "appendix_notes": [
+      "This is a fictional quotation used for automation demonstration purposes.",
+      "The same structure can generate quotations, invoices, proformas and service estimates.",
+      "Pricing, taxes and terms can be imported from spreadsheets or ERP exports."
+    ]
+  }
